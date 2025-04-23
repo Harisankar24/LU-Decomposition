@@ -8,13 +8,13 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-
+```
 1.Input the coefficient matrix A and the constant matrix B.
 2.Convert the input into a NumPy array.
 3.Perform LU decomposition on A to obtain L (lower triangular matrix) and U (upper triangular matrix).
 4.Output the solution x.
 5.end
-
+```
 
 ## Program:
 (i) To find the L and U matrix
